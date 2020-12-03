@@ -1,4 +1,4 @@
-# DFS-4
+# Miscalleneous-1
 
 ## Problem1: Coin distribution(https://leetcode.com/problems/distribute-coins-in-binary-tree/)
 
