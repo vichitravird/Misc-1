@@ -1,4 +1,4 @@
-# Miscalleneous-1
+# Misc-1
 
 ## Problem1: Calculate Using Broken Calculator (https://leetcode.com/problems/broken-calculator/)
 
